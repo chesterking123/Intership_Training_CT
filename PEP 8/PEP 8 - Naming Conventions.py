@@ -4,6 +4,15 @@ my_module.py
 
 mypackage
 
+#Descriptive: Naming Styles
+b #(single lowercase letter)
+B #(single uppercase letter)
+lowercase
+lower_case_with_underscores
+UPPERCASE
+UPPER_CASE_WITH_UNDERSCORES
+
+
 #function name
 def my_function():
   
