@@ -1,2 +1,0 @@
-What is GIL?
-https://wiki.python.org/moin/GlobalInterpreterLock

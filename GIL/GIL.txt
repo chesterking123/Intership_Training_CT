@@ -1,0 +1,2 @@
+https://python.land/python-concurrency/the-python-gil
+https://wiki.python.org/moin/GlobalInterpreterLock
