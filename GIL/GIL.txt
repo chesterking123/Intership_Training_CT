@@ -1,3 +1,3 @@
-I read the following articles to read everything about GIL.
+I read the following articles to learn everything about GIL.
 https://python.land/python-concurrency/the-python-gil
 https://wiki.python.org/moin/GlobalInterpreterLock
