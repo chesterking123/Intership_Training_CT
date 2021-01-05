@@ -62,3 +62,4 @@ spam(ham[1], {eggs: 2})
 # Wrong:
 spam( ham[ 1 ], { eggs: 2 } )
 
+###
