@@ -39,3 +39,26 @@ def function(num):
   print(check)
   
   return num
+
+#both are correct
+my_list = [
+    1, 2, 3,
+    4, 5, 6,
+    ]
+my_list = [
+    1, 2, 3,
+    4, 5, 6,
+]
+
+# Correct:
+import os
+import sys
+# Wrong:
+import sys, os
+
+#avoid spcaes
+# Correct: 
+spam(ham[1], {eggs: 2})
+# Wrong:
+spam( ham[ 1 ], { eggs: 2 } )
+
