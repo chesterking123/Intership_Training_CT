@@ -1,3 +1,16 @@
 I read the following articles to learn everything about GIL.
+
+What did I learn?
+1. What is GIL.
+2. What problem did the GIL solve for Python :
+3. Reference Counter in GIL
+4. Why was the GIL chosen as the solution :
+5. Why hasn’t the GIL been removed yet :
+6. Eliminating the GIL
+7. API compatibility
+
+
+sources : 
+https://www.geeksforgeeks.org/what-is-the-python-global-interpreter-lock-gil/
 https://python.land/python-concurrency/the-python-gil
 https://wiki.python.org/moin/GlobalInterpreterLock
