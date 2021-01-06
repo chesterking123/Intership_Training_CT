@@ -1,2 +1,5 @@
 Made this commit using git bash.
+<<<<<<< HEAD
 commit using branch "deep"
+=======
+>>>>>>> ba0862a4b5d03a1fd8b626d8a35ba79bc19adcd0
