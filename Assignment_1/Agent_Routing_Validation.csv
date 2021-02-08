@@ -1,0 +1,21 @@
+,Call_Id,CE_Id,CE_Age,CE_Language,CE_Experties,CE_Total_Handled_Leads,CE_Successful_Leads,C_Language,C_Timeperiod_months,C_Field,C_Times_Call,C_Products_Subscribed,C_Premium_Products_Subscribed,C_Call_On_Same_Topic,C_Default_Premium,C_Subtopic,Call_Duration_Sec
+0,0,3299,32,Telgu,"['Car Insurance', 'Home Insurance']",73,5,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+1,1,7254,47,Urdu,"['Car Insurance', 'Education Insurance', 'Life Insurance']",40,1,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+2,2,7218,40,Urdu,"['Health Insurance', 'Car Insurance', 'Home Insurance']",82,3,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+3,3,8869,22,Hindi,['Home Insurance'],22,1,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+4,4,5904,39,English,"['Life Insurance', 'Home Insurance']",66,2,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+5,5,2447,35,Urdu,"['Health Insurance', 'Home Insurance']",72,1,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+6,6,8003,41,English,"['Car Insurance', 'Life Insurance', 'Health Insurance']",60,3,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+7,7,5562,35,Hindi,"['Life Insurance', 'Education Insurance']",35,2,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+8,8,6589,48,Marathi,"['Life Insurance', 'Health Insurance', 'Education Insurance']",22,1,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+9,9,1993,40,Hindi,"['Car Insurance', 'Home Insurance', 'Life Insurance']",58,4,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+10,10,4927,40,Urdu,"['Education Insurance', 'Home Insurance', 'Car Insurance']",71,2,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+11,11,1928,21,Urdu,['Car Insurance'],80,4,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+12,12,8231,30,Marathi,"['Home Insurance', 'Life Insurance']",69,3,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+13,13,6409,28,English,['Education Insurance'],83,5,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+14,14,8740,49,Hindi,"['Life Insurance', 'Car Insurance', 'Education Insurance']",98,6,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+15,15,9794,40,English,"['Home Insurance', 'Education Insurance', 'Life Insurance']",73,6,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+16,16,3999,48,Urdu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",66,1,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+17,17,2499,44,English,"['Education Insurance', 'Health Insurance', 'Car Insurance']",52,3,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+18,18,4301,45,Telgu,"['Life Insurance', 'Education Insurance', 'Car Insurance']",81,2,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
+19,19,6532,35,Hindi,"['Health Insurance', 'Education Insurance']",52,1,English,17,Home Insurance,23.117163640405302,6,4,3,3,Cancellation,646.638162986121
